@@ -431,7 +431,9 @@ sub OpominiPrikazi{
 			$sql.=" AND b.date_activate < '$zapadlost' ";
 		}
 		$sql.=$a_select;
-		#return $sql;
+	    if($a_id_agreement == 1){
+		    $sql .= "  ORDER BY a.id_agreement ";
+		}
 		$sql .= " LIMIT 1200 ";
 		$sth = $dbh->prepare($sql);
 		$sth->execute();

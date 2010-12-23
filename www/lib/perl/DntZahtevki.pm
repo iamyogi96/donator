@@ -438,16 +438,19 @@ sub ZahtevkiPoslji(){
 	my $content = generate(\@items);
 	
 	if(my $dbh = DntFunkcije->connectDB){
-	#my $sql = "INSERT INTO datoteke_poslane (datum, stevilka, filename, content)
-	#						VALUES (CURRENT_TIMESTAMP, ?, ?, ?)";
-	#my $sth = $dbh->prepare($sql);
+	my $sql = "INSERT INTO datoteke_poslane (datum, stevilka, filename, content)
+							VALUES (CURRENT_TIMESTAMP, ?, ?, ?)";
+	my $sth = $dbh->prepare($sql);
 	
-	#$sth->execute(substr($content, 2, 24), $file, $content);
+	$sth->execute($content, $file, $content);
 	}
 
-	$q->header_type(-content => "Content-disposition: attachment; filename=$file\n\n");	
+	#$q->header_type(-content => "Content-disposition: attachment; filename=$file\n\n");	
+	print "Content-disposition: attachment; filename=$file\n\n";
 	print $content;
-	exit;
+	print "\n\n";
+	return 0;
+	
 }
 sub getItems{
 

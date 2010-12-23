@@ -270,10 +270,12 @@ sub DonatorjiSeznam{
 	}
 	
 	if ($dbh){
+	    
 		my $izbor;
 		
 		$sth = $dbh->prepare($sql);		
 		$sth->execute();
+		#return $sql;
 		#return $sql;
 		while ($res = $sth->fetchrow_hashref) {
 			if($isci==1){
@@ -356,7 +358,7 @@ sub DonatorjiSeznam{
 			disable => $zbrisi,
 					
 			 );
-		
+		    
 			# put this row into the loop by reference             
 			push(@loop, \%row);
 		}

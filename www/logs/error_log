@@ -5217,3 +5217,166 @@ DBD::Pg::st execute failed: ERROR:  value too long for type character(100) at /v
 [Thu Dec 23 21:00:49 2010] [notice] Apache configured -- resuming normal operations
 [Thu Dec 23 21:00:49 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
 [Thu Dec 23 21:01:25 2010] [error] [client 192.168.20.1] File does not exist: /htdocs/favicon.ico
+[Thu Dec 23 21:32:43 2010] [notice] caught SIGTERM, shutting down
+[Thu Dec 23 21:32:48 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Thu Dec 23 21:32:48 2010] [notice] chrooted in /var/www
+[Thu Dec 23 21:32:48 2010] [notice] changed to uid 67, gid 67
+[Thu Dec 23 21:32:48 2010] [notice] Apache configured -- resuming normal operations
+[Thu Dec 23 21:32:48 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Thu Dec 23 21:33:23 2010] [notice] caught SIGTERM, shutting down
+[Thu Dec 23 21:33:57 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Thu Dec 23 21:33:57 2010] [notice] chrooted in /var/www
+[Thu Dec 23 21:33:57 2010] [notice] changed to uid 67, gid 67
+[Thu Dec 23 21:33:57 2010] [notice] Apache configured -- resuming normal operations
+[Thu Dec 23 21:33:57 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Thu Dec 23 21:34:05 2010] [notice] caught SIGTERM, shutting down
+[Thu Dec 23 21:34:06 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Thu Dec 23 21:34:06 2010] [notice] chrooted in /var/www
+[Thu Dec 23 21:34:06 2010] [notice] changed to uid 67, gid 67
+[Thu Dec 23 21:34:06 2010] [notice] Apache configured -- resuming normal operations
+[Thu Dec 23 21:34:06 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Thu Dec 23 21:35:19 2010] [notice] caught SIGTERM, shutting down
+[Thu Dec 23 21:35:20 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Thu Dec 23 21:35:20 2010] [notice] chrooted in /var/www
+[Thu Dec 23 21:35:20 2010] [notice] changed to uid 67, gid 67
+[Thu Dec 23 21:35:20 2010] [notice] Apache configured -- resuming normal operations
+[Thu Dec 23 21:35:20 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Thu Dec 23 21:35:55 2010] [error] Error executing run mode 'Prikazi': Undefined subroutine &DntDonatorji::DonatorjiSeznam called at /usr/local/libdata/perl5/site_perl/CGI/Application.pm line 143.\n at /dev/null line 0\n
+[Thu Dec 23 21:36:12 2010] [notice] caught SIGTERM, shutting down
+[Thu Dec 23 21:36:13 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Thu Dec 23 21:36:13 2010] [notice] chrooted in /var/www
+[Thu Dec 23 21:36:13 2010] [notice] changed to uid 67, gid 67
+[Thu Dec 23 21:36:13 2010] [notice] Apache configured -- resuming normal operations
+[Thu Dec 23 21:36:13 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Thu Dec 23 21:36:16 2010] [error] Error executing run mode 'Prikazi': Undefined subroutine &DntDonatorji::DonatorjiSeznam called at /usr/local/libdata/perl5/site_perl/CGI/Application.pm line 143.\n at /dev/null line 0\n
+[Thu Dec 23 21:36:33 2010] [notice] caught SIGTERM, shutting down
+[Thu Dec 23 21:36:34 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Thu Dec 23 21:36:34 2010] [notice] chrooted in /var/www
+[Thu Dec 23 21:36:34 2010] [notice] changed to uid 67, gid 67
+[Thu Dec 23 21:36:34 2010] [notice] Apache configured -- resuming normal operations
+[Thu Dec 23 21:36:34 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Thu Dec 23 21:36:59 2010] [notice] caught SIGTERM, shutting down
+[Thu Dec 23 21:37:00 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Thu Dec 23 21:37:00 2010] [notice] chrooted in /var/www
+[Thu Dec 23 21:37:00 2010] [notice] changed to uid 67, gid 67
+[Thu Dec 23 21:37:00 2010] [notice] Apache configured -- resuming normal operations
+[Thu Dec 23 21:37:00 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+DBD::Pg::st execute failed: ERROR:  value too long for type character(100) at /var/www/lib/perl/DntFunkcije.pm line 1281.
+DBD::Pg::st execute failed: ERROR:  value too long for type character(100) at /var/www/lib/perl/DntFunkcije.pm line 1281.
+DBD::Pg::st execute failed: ERROR:  value too long for type character(100) at /var/www/lib/perl/DntFunkcije.pm line 1281.
+DBD::Pg::st execute failed: ERROR:  value too long for type character(100) at /var/www/lib/perl/DntFunkcije.pm line 1281.
+DBD::Pg::st execute failed: ERROR:  value too long for type character(100) at /var/www/lib/perl/DntFunkcije.pm line 1281.
+DBD::Pg::st execute failed: ERROR:  value too long for type character(100) at /var/www/lib/perl/DntFunkcije.pm line 1281.
+DBD::Pg::st execute failed: ERROR:  value too long for type character(100) at /var/www/lib/perl/DntFunkcije.pm line 1281.
+[Thu Dec 23 23:19:53 2010] [notice] caught SIGTERM, shutting down
+[Thu Dec 23 23:19:54 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Thu Dec 23 23:19:54 2010] [notice] chrooted in /var/www
+[Thu Dec 23 23:19:54 2010] [notice] changed to uid 67, gid 67
+[Thu Dec 23 23:19:54 2010] [notice] Apache configured -- resuming normal operations
+[Thu Dec 23 23:19:54 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Thu Dec 23 23:24:18 2010] [notice] caught SIGTERM, shutting down
+[Thu Dec 23 23:24:19 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Thu Dec 23 23:24:19 2010] [notice] chrooted in /var/www
+[Thu Dec 23 23:24:19 2010] [notice] changed to uid 67, gid 67
+[Thu Dec 23 23:24:19 2010] [notice] Apache configured -- resuming normal operations
+[Thu Dec 23 23:24:19 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+DBD::Pg::st execute failed: ERROR:  syntax error at or near ")"
+LINE 1: ...reement.id_donor = sfr_donor.id_donor AND id_agreement IN ()
+                                                                      ^ at /lib/perl/outputHandler.pm line 92.
+DBD::Pg::st fetchrow_hashref failed: no statement executing at /lib/perl/outputHandler.pm line 94.
+DBD::Pg::st execute failed: ERROR:  syntax error at or near ")"
+LINE 1: ...rditve=CURRENT_TIMESTAMP, potrjeno=1WHERE id_agreement IN ()
+                                                                      ^ at /lib/perl/outputHandler.pm line 108.
+[Thu Dec 23 23:33:43 2010] [error] Error executing run mode 'output':  at /dev/null line 0\n
+Bareword found where operator expected at /lib/perl/DntZahtevki.pm line 501, near "*, a"
+  (Might be a runaway multi-line "" string starting on line 478)
+	(Missing operator before a?)
+Bareword found where operator expected at /lib/perl/DntZahtevki.pm line 502, near ""a"
+  (Might be a runaway multi-line "" string starting on line 501)
+	(Missing operator before a?)
+String found where operator expected at /lib/perl/DntZahtevki.pm line 503, near """
+  (Might be a runaway multi-line "" string starting on line 502)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at /lib/perl/DntZahtevki.pm line 503, near ""FROM"
+	(Missing operator before FROM?)
+String found where operator expected at /lib/perl/DntZahtevki.pm line 504, near """
+  (Might be a runaway multi-line "" string starting on line 503)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at /lib/perl/DntZahtevki.pm line 504, near ""WHERE"
+	(Missing operator before WHERE?)
+Bareword found where operator expected at /lib/perl/DntZahtevki.pm line 501, near "*, a"
+  (Might be a runaway multi-line "" string starting on line 478)
+	(Missing operator before a?)
+Bareword found where operator expected at /lib/perl/DntZahtevki.pm line 502, near ""a"
+  (Might be a runaway multi-line "" string starting on line 501)
+	(Missing operator before a?)
+String found where operator expected at /lib/perl/DntZahtevki.pm line 503, near """
+  (Might be a runaway multi-line "" string starting on line 502)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at /lib/perl/DntZahtevki.pm line 503, near ""FROM"
+	(Missing operator before FROM?)
+String found where operator expected at /lib/perl/DntZahtevki.pm line 504, near """
+  (Might be a runaway multi-line "" string starting on line 503)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at /lib/perl/DntZahtevki.pm line 504, near ""WHERE"
+	(Missing operator before WHERE?)
+[Fri Dec 24 00:12:06 2010] [error] No such run mode 'ZahtevkiPoslji' at /dev/null line 0\n
+Bareword found where operator expected at /lib/perl/DntZahtevki.pm line 501, near "*, a"
+  (Might be a runaway multi-line "" string starting on line 478)
+	(Missing operator before a?)
+Bareword found where operator expected at /lib/perl/DntZahtevki.pm line 502, near ""a"
+  (Might be a runaway multi-line "" string starting on line 501)
+	(Missing operator before a?)
+String found where operator expected at /lib/perl/DntZahtevki.pm line 503, near """
+  (Might be a runaway multi-line "" string starting on line 502)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at /lib/perl/DntZahtevki.pm line 503, near ""FROM"
+	(Missing operator before FROM?)
+String found where operator expected at /lib/perl/DntZahtevki.pm line 504, near """
+  (Might be a runaway multi-line "" string starting on line 503)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at /lib/perl/DntZahtevki.pm line 504, near ""WHERE"
+	(Missing operator before WHERE?)
+[Fri Dec 24 00:12:25 2010] [error] Error executing run mode 'poslji': Can't locate object method "ZahtevkiPoslji" via package "DntZahtevki" at /usr/local/libdata/perl5/site_perl/CGI/Application.pm line 143.\n at /dev/null line 0\n
+[Fri Dec 24 00:13:04 2010] [error] Error executing run mode 'poslji': Can't locate object method "header_type" via package "DntQuery" at /lib/perl/DntZahtevki.pm line 448.\n at /dev/null line 0\n
+[Fri Dec 24 00:13:14 2010] [notice] caught SIGTERM, shutting down
+[Fri Dec 24 00:13:15 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Fri Dec 24 00:13:15 2010] [notice] chrooted in /var/www
+[Fri Dec 24 00:13:15 2010] [notice] changed to uid 67, gid 67
+[Fri Dec 24 00:13:15 2010] [notice] Apache configured -- resuming normal operations
+[Fri Dec 24 00:13:15 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Fri Dec 24 00:13:17 2010] [error] Error executing run mode 'poslji': Undefined subroutine &DntZahtevki::ZahtevkiPoslji called at /usr/local/libdata/perl5/site_perl/CGI/Application.pm line 143.\n at /dev/null line 0\n
+[Fri Dec 24 00:13:44 2010] [notice] caught SIGTERM, shutting down
+[Fri Dec 24 00:13:45 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Fri Dec 24 00:13:45 2010] [notice] chrooted in /var/www
+[Fri Dec 24 00:13:45 2010] [notice] changed to uid 67, gid 67
+[Fri Dec 24 00:13:45 2010] [notice] Apache configured -- resuming normal operations
+[Fri Dec 24 00:13:45 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Fri Dec 24 00:13:49 2010] [error] Error executing run mode 'poslji':  at /dev/null line 0\n
+[Fri Dec 24 00:15:24 2010] [notice] caught SIGTERM, shutting down
+[Fri Dec 24 00:15:25 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Fri Dec 24 00:15:25 2010] [notice] chrooted in /var/www
+[Fri Dec 24 00:15:25 2010] [notice] changed to uid 67, gid 67
+[Fri Dec 24 00:15:25 2010] [notice] Apache configured -- resuming normal operations
+[Fri Dec 24 00:15:25 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Fri Dec 24 00:15:29 2010] [error] Error executing run mode 'poslji': Died at /lib/perl/DntZahtevki.pm line 451.\n at /dev/null line 0\n
+[Fri Dec 24 00:16:21 2010] [notice] caught SIGTERM, shutting down
+[Fri Dec 24 00:16:22 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Fri Dec 24 00:16:22 2010] [notice] chrooted in /var/www
+[Fri Dec 24 00:16:22 2010] [notice] changed to uid 67, gid 67
+[Fri Dec 24 00:16:22 2010] [notice] Apache configured -- resuming normal operations
+[Fri Dec 24 00:16:22 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Fri Dec 24 00:16:24 2010] [error] Error executing run mode 'poslji':  at /dev/null line 0\n
+[Fri Dec 24 00:21:42 2010] [notice] caught SIGTERM, shutting down
+[Fri Dec 24 00:21:43 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Fri Dec 24 00:21:43 2010] [notice] chrooted in /var/www
+[Fri Dec 24 00:21:43 2010] [notice] changed to uid 67, gid 67
+[Fri Dec 24 00:21:43 2010] [notice] Apache configured -- resuming normal operations
+[Fri Dec 24 00:21:43 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Fri Dec 24 00:21:49 2010] [error] Error executing run mode 'poslji': Undefined subroutine &DntZahtevki::_exit called at /lib/perl/DntZahtevki.pm line 451.\n at /dev/null line 0\n
+[Fri Dec 24 00:22:19 2010] [notice] caught SIGTERM, shutting down
+[Fri Dec 24 00:22:20 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Fri Dec 24 00:22:20 2010] [notice] chrooted in /var/www
+[Fri Dec 24 00:22:20 2010] [notice] changed to uid 67, gid 67
+[Fri Dec 24 00:22:20 2010] [notice] Apache configured -- resuming normal operations
+[Fri Dec 24 00:22:20 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)

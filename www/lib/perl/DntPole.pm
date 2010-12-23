@@ -1073,7 +1073,7 @@ sub PoleZbrisi(){
 							return $html_output;
 			}
 			$sql="SELECT sheets_deleted, sheets_num_created FROM".
-					"sheets_series WHERE series=?";
+					" sheets_series WHERE series=?";
 			$sth = $dbh->prepare($sql);
 			$sth->execute($id);
 			$numFields=0;

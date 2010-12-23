@@ -147,7 +147,7 @@ sub ObracunSeznam{
 	
 	if ($dbh) {
 		#if(length($ime)+length($st)>0){
-		$sql = "SELECT id_staff, first_name, scnd_name FROM sfr_staff";
+		$sql = "SELECT id_staff, first_name, scnd_name FROM sfr_staff ORDER BY id_staff";
 		$sth = $dbh->prepare($sql);
 		$sth->execute();
 		my $scrollingList = '<select multiple = "multiple" name="staff" size="15" id="seznam_zaposlenih" >';

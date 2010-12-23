@@ -422,6 +422,9 @@ sub IzvoziObrokePrikazi{
 		}
 		#na koncu se doda še pogoji iz select lista:
 		$sql.=$a_select;
+		if($a_id_agreement == 1){
+		    $sql .= "  ORDER BY a.id_agreement ";
+		}
 		$sql .= " LIMIT 1200 ";
 		$sth = $dbh->prepare($sql);
 		#return $sql;
