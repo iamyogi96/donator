@@ -1,0 +1,18 @@
+export PKG_PATH=ftp://ftp.openbsd.org/pub/OpenBSD/4.8/packages/i386/
+
+pkg_add -i mod_perl
+pkg_add -i p5-CGI-Application
+
+TO INSTALL:
+mod_perl-1.31->p5-HMTL-Parser-3.60p0 ->p5-HTML-Tagset-3.20
+                     ->p5-libwww-5.826->p5-Crypt-SSLeay-0.57p0->p5-URI-1.37->p5-HTTP-GHTTP-1.07p1->libghttp-1.0.9p2
+p5-libapreq-1.35  
+
+postgresql-client-8.3.10->libiconv-1.13->libxml-2.6.32p3
+
+postgresql-server-8.3.10
+
+p5-DBD-Pg-8.3.10->p5-DBI-1.607->p5-PlRPC-0.2018p0->p5-Bet-Daemon-0.43
+
+p5-CGI-Application-4.21->p5-HMTL-Template-2.9 
+
