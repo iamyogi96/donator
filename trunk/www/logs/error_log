@@ -5207,3 +5207,13 @@ DBD::Pg::st execute failed: ERROR:  value too long for type character(100) at /v
 DBD::Pg::st execute failed: ERROR:  value too long for type character(100) at /var/www/lib/perl/DntFunkcije.pm line 1281.
 DBD::Pg::st execute failed: ERROR:  value too long for type character(100) at /var/www/lib/perl/DntFunkcije.pm line 1281.
 DBD::Pg::st execute failed: ERROR:  value too long for type character(100) at /var/www/lib/perl/DntFunkcije.pm line 1281.
+[Thu Dec 23 20:56:38 2010] [crit] (48)Address already in use: make_sock: could not bind to address 0.0.0.0 port 80
+[Thu Dec 23 20:56:53 2010] [crit] (48)Address already in use: make_sock: could not bind to address 0.0.0.0 port 80
+[Thu Dec 23 20:57:15 2010] [crit] (48)Address already in use: make_sock: could not bind to address 0.0.0.0 port 80
+[Thu Dec 23 21:00:49 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Thu Dec 23 21:00:49 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Thu Dec 23 21:00:49 2010] [notice] chrooted in /var/www
+[Thu Dec 23 21:00:49 2010] [notice] changed to uid 67, gid 67
+[Thu Dec 23 21:00:49 2010] [notice] Apache configured -- resuming normal operations
+[Thu Dec 23 21:00:49 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Thu Dec 23 21:01:25 2010] [error] [client 192.168.20.1] File does not exist: /htdocs/favicon.ico

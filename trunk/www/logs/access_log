@@ -21276,3 +21276,14 @@
 10.10.10.160 - - [22/Dec/2010:12:48:49 +0100] "GET /DntPrijava.cgi?rm=prijava HTTP/1.1" 200 2913
 10.10.10.160 - - [22/Dec/2010:12:48:51 +0100] "GET /DntPrijava.cgi?rm=odjavi HTTP/1.1" 302 5
 10.10.10.160 - - [22/Dec/2010:12:48:51 +0100] "GET /DntPrijava.cgi?rm=prijava&uspeh=1 HTTP/1.1" 200 1621
+192.168.20.1 - - [23/Dec/2010:21:01:25 +0100] "GET /static/izgled4.css HTTP/1.1" 200 3727
+192.168.20.1 - - [23/Dec/2010:21:01:25 +0100] "GET /static/funkcije.js HTTP/1.1" 200 4262
+192.168.20.1 - - [23/Dec/2010:21:01:25 +0100] "GET /DntDonatorji.cgi HTTP/1.1" 200 16011
+192.168.20.1 - - [23/Dec/2010:21:01:25 +0100] "GET /favicon.ico HTTP/1.1" 404 217
+192.168.20.1 - - [23/Dec/2010:21:12:06 +0100] "GET /DntStart.cgi?rm=Donatorji HTTP/1.1" 302 5
+192.168.20.1 - - [23/Dec/2010:21:12:06 +0100] "GET /DntDonatorji.cgi?rm=seznam&seja= HTTP/1.1" 200 16026
+192.168.20.1 - - [23/Dec/2010:21:12:06 +0100] "GET /static/izgled4.css HTTP/1.1" 304 -
+192.168.20.1 - - [23/Dec/2010:21:12:06 +0100] "GET /static/funkcije.js HTTP/1.1" 304 -
+192.168.20.1 - - [23/Dec/2010:21:12:07 +0100] "GET /favicon.ico HTTP/1.1" 200 1406
+192.168.20.1 - - [23/Dec/2010:21:12:12 +0100] "GET /DntStart.cgi?rm=Zaposleni HTTP/1.1" 302 5
+192.168.20.1 - - [23/Dec/2010:21:12:12 +0100] "GET /DntZaposleni.cgi?rm=seznam&seja= HTTP/1.1" 200 7797
