@@ -434,7 +434,10 @@ sub PotrdilaPrikazi{
 		if(defined $aktivenDonator && $aktivenDonator > 0){
 			$sql .= " AND b.active_donor = '1'";
 		}
-		$sql .= " ORDER BY id_donor, id_agreement";
+		else{
+		    $sql .= " AND b.active_donor = '0'";
+		}
+		$sql .= " ORDER BY id_agreement";
 		$sth = $dbh->prepare($sql);
 		$sth->execute();
 		my $i=0;
