@@ -442,14 +442,12 @@ sub ZahtevkiPoslji(){
 							VALUES (CURRENT_TIMESTAMP, ?, ?, ?)";
 	my $sth = $dbh->prepare($sql);
 	
-	$sth->execute($content, $file, $content);
+	$sth->execute($davcnaSt, $file, $content);
 	}
 
-	#$q->header_type(-content => "Content-disposition: attachment; filename=$file\n\n");	
-	print "Content-disposition: attachment; filename=$file\n\n";
-	print $content;
-	print "\n\n";
-	return 0;
+    $q->header_props("Content-disposition: attachment; filename=$file\n\n");	
+	#print "Content-disposition: attachment; filename=$file\n\n";
+	return $content;
 	
 }
 sub getItems{
