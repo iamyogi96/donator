@@ -4,11 +4,12 @@ use warnings;
 use base qw(Apache::Request);
 use Apache::Constants qw(REDIRECT);
 
-my $url;
+my $url = "Content-Type: text/html; charset=utf-8\n\n";
 
 sub header_props{
 	my $self = shift;
-	$url = $self->{-url}
+	$url = shift;
+	
 	
 }
 sub new {
@@ -18,7 +19,7 @@ sub new {
 sub header {
     my $self = shift;
     #$self->send_http_header();
-    return "Content-Type: text/html; charset=utf-8\n\n";
+    return $url;
 	return "\n\n";
 }
 
