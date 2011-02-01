@@ -619,7 +619,7 @@ sub DonatorUredi() {
 			$gospa="selected=\"selected\"";
 			$gospod="";
 		}
-		elsif(DntFunkcije::trim($prednaziv eq "Gospod")){
+		elsif(DntFunkcije::trim($prednaziv) eq "Gospod"){
 			$gospod="selected=\"selected\"";
 			$gospa="";
 		}

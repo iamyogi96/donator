@@ -1,5 +1,6 @@
-my @parts;
+eval {
 
+my @parts;
 my $content;
 my $content2;
 my $datum;
@@ -14,7 +15,12 @@ my $variable;
 my $value;
 (my $danes, my $cas) = DntFunkcije::si_date("");
 
+
+
 read( STDIN, $tmpStr, $ENV{ "CONTENT_LENGTH" } );
+
+
+
 @parts = split( /-----------------------------/, $tmpStr );
 foreach my $pr (@parts){
 
@@ -215,8 +221,7 @@ foreach (@vrstice){
 		}
 	}
 }
+
+};
+print STDERR "Closed\n";
 exit;
-
-
-
-

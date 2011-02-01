@@ -6134,3 +6134,167 @@
 [27/Dec/2010 07:33:15 24956] [info]  Init: Reinitializing OpenSSL library
 [27/Dec/2010 07:33:15 24956] [info]  Init: Seeding PRNG with 648 bytes of entropy
 [27/Dec/2010 07:33:15 24956] [info]  Init: Initializing (virtual) servers for SSL
+[27/Dec/2010 08:59:22 18047] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[27/Dec/2010 08:59:22 18047] [info]  Init: 1st startup round (still not detached)
+[27/Dec/2010 08:59:22 18047] [info]  Init: Initializing OpenSSL library
+[27/Dec/2010 08:59:22 06754] [info]  Init: 2nd startup round (already detached)
+[27/Dec/2010 08:59:22 06754] [info]  Init: Reinitializing OpenSSL library
+[27/Dec/2010 08:59:22 06754] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[27/Dec/2010 08:59:22 06754] [info]  Init: Initializing (virtual) servers for SSL
+[10/Jan/2011 11:54:14 15718] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[10/Jan/2011 11:54:14 15718] [info]  Init: 1st startup round (still not detached)
+[10/Jan/2011 11:54:14 15718] [info]  Init: Initializing OpenSSL library
+[10/Jan/2011 11:54:14 24036] [info]  Init: 2nd startup round (already detached)
+[10/Jan/2011 11:54:14 24036] [info]  Init: Reinitializing OpenSSL library
+[10/Jan/2011 11:54:14 24036] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[10/Jan/2011 11:54:14 24036] [info]  Init: Initializing (virtual) servers for SSL
+[31/Jan/2011 22:09:50 10310] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[31/Jan/2011 22:09:50 10310] [info]  Init: 1st startup round (still not detached)
+[31/Jan/2011 22:09:50 10310] [info]  Init: Initializing OpenSSL library
+[31/Jan/2011 22:09:51 10555] [info]  Init: 2nd startup round (already detached)
+[31/Jan/2011 22:09:51 10555] [info]  Init: Reinitializing OpenSSL library
+[31/Jan/2011 22:09:51 10555] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[31/Jan/2011 22:09:51 10555] [info]  Init: Initializing (virtual) servers for SSL
+[31/Jan/2011 22:48:31 06411] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[31/Jan/2011 22:48:31 06411] [info]  Init: 1st startup round (still not detached)
+[31/Jan/2011 22:48:31 06411] [info]  Init: Initializing OpenSSL library
+[31/Jan/2011 22:48:31 02230] [info]  Init: 2nd startup round (already detached)
+[31/Jan/2011 22:48:31 02230] [info]  Init: Reinitializing OpenSSL library
+[31/Jan/2011 22:48:31 02230] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[31/Jan/2011 22:48:31 02230] [info]  Init: Initializing (virtual) servers for SSL
+[31/Jan/2011 22:52:40 26406] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[31/Jan/2011 22:52:40 26406] [info]  Init: 1st startup round (still not detached)
+[31/Jan/2011 22:52:40 26406] [info]  Init: Initializing OpenSSL library
+[31/Jan/2011 22:52:40 07074] [info]  Init: 2nd startup round (already detached)
+[31/Jan/2011 22:52:40 07074] [info]  Init: Reinitializing OpenSSL library
+[31/Jan/2011 22:52:40 07074] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[31/Jan/2011 22:52:40 07074] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 20:56:22 17371] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 20:56:22 17371] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 20:56:22 17371] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 20:56:24 31902] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 20:56:24 31902] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 20:56:24 31902] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 20:56:24 31902] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:06:40 13144] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:06:40 13144] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:06:40 13144] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:06:41 07283] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:06:41 07283] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:06:41 07283] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:06:41 07283] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:11:49 03479] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:11:49 03479] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:11:49 03479] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:11:50 01804] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:11:50 01804] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:11:50 01804] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:11:50 01804] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:13:10 09040] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:13:10 09040] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:13:10 09040] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:13:10 10717] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:13:10 10717] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:13:10 10717] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:13:10 10717] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:20:36 32564] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:20:36 32564] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:20:36 32564] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:20:37 23381] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:20:37 23381] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:20:37 23381] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:20:37 23381] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:23:45 14317] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:23:45 14317] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:23:45 14317] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:23:46 27841] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:23:46 27841] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:23:46 27841] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:23:46 27841] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:30:24 29940] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:30:24 29940] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:30:24 29940] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:30:25 12549] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:30:25 12549] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:30:25 12549] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:30:25 12549] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:31:35 26005] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:31:35 26005] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:31:35 26005] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:31:37 19115] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:31:37 19115] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:31:37 19115] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:31:37 19115] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:31:38 20229] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:31:38 20229] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:31:38 20229] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:32:52 18185] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:32:52 18185] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:32:52 18185] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:32:53 23958] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:32:53 23958] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:32:53 23958] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:32:53 23958] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:39:26 25687] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:39:26 25687] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:39:26 25687] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:39:26 07535] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:39:26 07535] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:39:26 07535] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:39:26 07535] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:39:31 03146] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:39:31 03146] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:39:31 03146] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:39:32 22078] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:39:32 22078] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:39:32 22078] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:39:32 22078] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:40:20 13749] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:40:20 13749] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:40:20 13749] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:40:21 15828] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:40:21 15828] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:40:21 15828] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:40:21 15828] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:45:45 26806] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:45:45 26806] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:45:45 26806] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:45:46 27347] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:45:46 27347] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:45:46 27347] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:45:46 27347] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:47:21 05317] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:47:21 05317] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:47:21 05317] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:47:22 01291] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:47:22 01291] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:47:22 01291] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:47:22 01291] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:55:45 26844] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:55:45 26844] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:55:45 26844] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:55:46 21633] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:55:46 21633] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:55:46 21633] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:55:46 21633] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:57:33 16667] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:57:33 16667] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:57:33 16667] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:57:34 15331] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:57:34 15331] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:57:34 15331] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:57:34 15331] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:58:10 04822] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:58:10 04822] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:58:10 04822] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:58:10 01991] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:58:10 01991] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:58:10 01991] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:58:10 01991] [info]  Init: Initializing (virtual) servers for SSL
+[01/Feb/2011 21:58:55 02203] [info]  Server: Apache/1.3.29, Interface: mod_ssl/2.8.16, Library: OpenSSL/0.9.8k
+[01/Feb/2011 21:58:55 02203] [info]  Init: 1st startup round (still not detached)
+[01/Feb/2011 21:58:55 02203] [info]  Init: Initializing OpenSSL library
+[01/Feb/2011 21:58:56 22284] [info]  Init: 2nd startup round (already detached)
+[01/Feb/2011 21:58:56 22284] [info]  Init: Reinitializing OpenSSL library
+[01/Feb/2011 21:58:56 22284] [info]  Init: Seeding PRNG with 648 bytes of entropy
+[01/Feb/2011 21:58:56 22284] [info]  Init: Initializing (virtual) servers for SSL
