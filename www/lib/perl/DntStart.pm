@@ -16,10 +16,10 @@ sub handler ($$) {
  $pkg = substr($pkgs[0], 1);
  
  if($pkg eq "outputHandler"){
-	require "outputHandler.pm";
+	do "outputHandler.pm";
  }
  elsif($pkg eq "fileHandler"){
-	require "fileHandler.pm";
+	do "fileHandler.pm";
  }
  else{
     if($pkg eq "")

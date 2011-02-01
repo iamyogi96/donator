@@ -5556,3 +5556,289 @@ DBD::Pg::st execute failed: called with 2 bind variables when 3 are needed at /l
 [Mon Dec 27 07:33:16 2010] [notice] Apache configured -- resuming normal operations
 [Mon Dec 27 07:33:16 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
 DBD::Pg::st execute failed: ERROR:  invalid input syntax for integer: "umPlacila=23/12/2010; id=1" at /var/www/lib/perl/DntFunkcije.pm line 1281.
+[Mon Dec 27 08:59:22 2010] [notice] Initializing etag from /var/www/logs/etag-state
+[Mon Dec 27 08:59:22 2010] [notice] chrooted in /var/www
+[Mon Dec 27 08:59:22 2010] [notice] changed to uid 67, gid 67
+[Mon Dec 27 08:59:22 2010] [notice] Apache configured -- resuming normal operations
+[Mon Dec 27 08:59:22 2010] [notice] Accept mutex: sysvsem (Default: sysvsem)
+DBD::Pg::st execute failed: ERROR:  invalid input syntax for type timestamp: "2012-1-"
+LINE 1: ...packet_pp, komentar)VALUES (11000100017, NULL, 2, '2012-1-',...
+                                                             ^ at /lib/perl/DntObroki.pm line 397.
+DBD::Pg::st execute failed: ERROR:  invalid input syntax for type timestamp: "2012-1-"
+LINE 1: ...packet_pp, komentar)VALUES (11000100017, NULL, 2, '2012-1-',...
+                                                             ^ at /lib/perl/DntObroki.pm line 397.
+[Mon Jan 10 11:54:14 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Mon Jan 10 11:54:14 2011] [notice] chrooted in /var/www
+[Mon Jan 10 11:54:14 2011] [notice] changed to uid 67, gid 67
+[Mon Jan 10 11:54:14 2011] [notice] Apache configured -- resuming normal operations
+[Mon Jan 10 11:54:14 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+DBD::Pg::st execute failed: ERROR:  invalid input syntax for integer: "umPlacila=23/12/2010" at /var/www/lib/perl/DntFunkcije.pm line 1281.
+DBD::Pg::st execute failed: ERROR:  invalid input syntax for integer: "umPlacila=23/12/2010; id=1" at /var/www/lib/perl/DntFunkcije.pm line 1281.
+DBD::Pg::st execute failed: ERROR:  invalid input syntax for integer: "umPlacila=23/12/2010; id=1" at /var/www/lib/perl/DntFunkcije.pm line 1281.
+DBD::Pg::st execute failed: ERROR:  invalid input syntax for integer: "umPlacila=23/12/2010; id=1" at /var/www/lib/perl/DntFunkcije.pm line 1281.
+DBD::Pg::st execute failed: ERROR:  invalid input syntax for integer: "umPlacila=23/12/2010; id=1" at /var/www/lib/perl/DntFunkcije.pm line 1281.
+DBD::Pg::st execute failed: ERROR:  invalid input syntax for integer: "umPlacila=23/12/2010; id=1" at /var/www/lib/perl/DntFunkcije.pm line 1281.
+DBD::Pg::st execute failed: ERROR:  invalid input syntax for integer: "umPlacila=23/12/2010; id=1" at /var/www/lib/perl/DntFunkcije.pm line 1281.
+DBD::Pg::st execute failed: ERROR:  invalid input syntax for integer: "umPlacila=23/12/2010; id=1" at /var/www/lib/perl/DntFunkcije.pm line 1281.
+[Mon Jan 31 22:09:51 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Mon Jan 31 22:09:51 2011] [notice] chrooted in /var/www
+[Mon Jan 31 22:09:51 2011] [notice] changed to uid 67, gid 67
+[Mon Jan 31 22:09:51 2011] [notice] Apache configured -- resuming normal operations
+[Mon Jan 31 22:09:51 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Mon Jan 31 22:48:18 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Mon Jan 31 22:48:31 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Mon Jan 31 22:48:31 2011] [notice] chrooted in /var/www
+[Mon Jan 31 22:48:31 2011] [notice] changed to uid 67, gid 67
+[Mon Jan 31 22:48:31 2011] [notice] Apache configured -- resuming normal operations
+[Mon Jan 31 22:48:31 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Mon Jan 31 22:52:39 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Mon Jan 31 22:52:40 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Mon Jan 31 22:52:40 2011] [notice] chrooted in /var/www
+[Mon Jan 31 22:52:40 2011] [notice] changed to uid 67, gid 67
+[Mon Jan 31 22:52:40 2011] [notice] Apache configured -- resuming normal operations
+[Mon Jan 31 22:52:40 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Tue Feb  1 20:56:24 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 20:56:24 2011] [notice] chrooted in /var/www
+[Tue Feb  1 20:56:24 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 20:56:24 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 20:56:24 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Tue Feb  1 21:04:49 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+[Tue Feb  1 21:05:06 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+[Tue Feb  1 21:06:37 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:06:41 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:06:41 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:06:41 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:06:41 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:06:41 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Tue Feb  1 21:11:14 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+[Tue Feb  1 21:11:47 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:11:50 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:11:51 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:11:51 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:11:51 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:11:51 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Tue Feb  1 21:12:38 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+[Tue Feb  1 21:13:08 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:13:10 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:13:10 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:13:10 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:13:10 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:13:10 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Tue Feb  1 21:17:39 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+[Tue Feb  1 21:20:34 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:20:37 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:20:37 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:20:37 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:20:37 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:20:37 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Tue Feb  1 21:23:07 2011] [error] Missing comma after first argument to die function at /lib/perl/outputHandler.pm line 19, near ");"\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+[Tue Feb  1 21:23:44 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:23:46 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:23:46 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:23:46 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:23:46 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:23:46 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Tue Feb  1 21:24:05 2011] [error] Died at /lib/perl/outputHandler.pm line 18.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 18.\n
+[Tue Feb  1 21:27:08 2011] [error] Usage: Apache::OPEN(self, arg1, arg2=Nullsv) at /lib/perl/outputHandler.pm line 16.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 18.\n
+[Tue Feb  1 21:30:02 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:30:25 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:30:25 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:30:25 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:30:25 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:30:25 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Tue Feb  1 21:30:46 2011] [error] Can't locate object method "PRINT" via package "FileHandle" at /lib/perl/outputHandler.pm line 17.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 18.\n
+[Tue Feb  1 21:31:34 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:31:37 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:31:37 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:31:37 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:31:37 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:31:37 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Tue Feb  1 21:31:39 2011] [crit] (48)Address already in use: make_sock: could not bind to address 0.0.0.0 port 80
+After varsAfter readAfter parts[Tue Feb  1 21:32:50 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:32:53 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:32:53 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:32:53 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:32:53 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:32:53 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+After vars
+After read
+After parts
+After select
+After vars
+After read
+After parts
+After select
+[Tue Feb  1 21:34:11 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+After vars
+After read
+After parts
+After select
+[Tue Feb  1 21:35:09 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+After vars
+After read
+After parts
+After select
+After vars
+After read
+After parts
+After select
+[Tue Feb  1 21:35:57 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+Use of uninitialized value $index in substr at /lib/perl/DntOpomini.pm line 532.
+[Tue Feb  1 21:36:15 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+[Tue Feb  1 21:39:24 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:39:26 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:39:26 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:39:26 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:39:26 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:39:26 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Tue Feb  1 21:39:28 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:39:32 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:39:32 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:39:32 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:39:32 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:39:32 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Tue Feb  1 21:40:18 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:40:21 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:40:21 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:40:21 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:40:21 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:40:21 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+After vars
+After read
+After parts
+After vars
+After read
+After parts
+After select
+After vars
+After read
+After parts
+After select
+[Tue Feb  1 21:43:41 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+After vars
+After read
+After parts
+After select
+[Tue Feb  1 21:45:27 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+[Tue Feb  1 21:45:43 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:45:46 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:45:46 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:45:46 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:45:46 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:45:46 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+After vars
+After read
+After parts
+After select
+After vars
+After read
+After parts
+After select
+[Tue Feb  1 21:46:05 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+[Tue Feb  1 21:47:19 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:47:22 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:47:22 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:47:22 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:47:22 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:47:22 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+Closed
+Closed
+[Tue Feb  1 21:47:49 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+[Tue Feb  1 21:55:40 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:55:46 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:55:46 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:55:46 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:55:46 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:55:46 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+[Tue Feb  1 21:57:32 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:57:34 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:57:34 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:57:34 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:57:34 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:57:34 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+Closed
+Closed
+[Tue Feb  1 21:57:57 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+[Tue Feb  1 21:58:08 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:58:10 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:58:10 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:58:10 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:58:10 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:58:10 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+Closed
+Closed
+Closed
+[Tue Feb  1 21:58:32 2011] [error] Attempt to reload outputHandler.pm aborted.\nCompilation failed in require at /var/www/lib/perl/DntStart.pm line 19.\n
+[Tue Feb  1 21:58:54 2011] [notice] SIGHUP received.  Attempting to restart
+Syntax error on line 19 of /conf/httpd.conf:
+Cannot load /usr/local/lib/mod_perl.so into server: File not found
+[Tue Feb  1 21:58:56 2011] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Feb  1 21:58:56 2011] [notice] chrooted in /var/www
+[Tue Feb  1 21:58:56 2011] [notice] changed to uid 67, gid 67
+[Tue Feb  1 21:58:56 2011] [notice] Apache configured -- resuming normal operations
+[Tue Feb  1 21:58:56 2011] [notice] Accept mutex: sysvsem (Default: sysvsem)
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed

@@ -714,6 +714,7 @@ sub Izpis(){
 		foreach (@povezave){
 			$sql.= " AND $_";
 		}
+		$sql .= " ORDER BY 1";
 		$sth = $dbh->prepare($sql);
 		$sth->execute();
 		
