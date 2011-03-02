@@ -180,7 +180,12 @@ if(defined $datumChk && $datumChk eq "ON"){
 			}
 			my @pogoji = split(",", $pogoj);
 			foreach (@pogoji){
-				$sql .= " OR $id = ".DntFunkcije::trim($_);	
+            if($id eq "id_agreement"){
+                $sql .= " OR $id = '".DntFunkcije::trim($_)."'";
+            }
+            else{
+                $sql .= " OR $id = ".DntFunkcije::trim($_);
+            }
 			}
 			$sql =~ s/,'$/'/;
 			
@@ -197,7 +202,7 @@ if(defined $datumChk && $datumChk eq "ON"){
 
 
 
-#ZAPIŠI V BAZO TO DATOTEKO!
+#ZAPIÂŠI V BAZO TO DATOTEKO!
 if(my $dbh = DntFunkcije->connectDB){
 my $sql = "INSERT INTO datoteke_izvozene (filename, content)
 						VALUES (?, ?)";
